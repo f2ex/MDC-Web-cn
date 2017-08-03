@@ -145,8 +145,10 @@ open http://localhost:8080
 - [Framework Integration Examples](framework-examples/)
 - [Contributing](CONTRIBUTING.md)
 - [Developing MDC-Web Components](docs/developer.md)
-- [Material.io](http://mdcui.com/) (external site)
-- [Material Design Guidelines](http://mdcui.com/material-design/) (external site)
+- [Material.io](https://material.io/) (英文官网)
+- [Material Design Guidelines](https://material.io/guidelines/) (英文官网)
+- [MDC-Web 中文网](http://mdcui.com/) (中文网)
+- [Material Design 指南](http://mdcui.com/material-design/) (中文网)
 
 ## Browser Support
 
