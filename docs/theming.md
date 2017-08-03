@@ -1,9 +1,8 @@
-<!--docs:
-title: "Theming Guide"
+---
+title: Theming Guide
 layout: landing
-section: docs
-path: /docs/theming/
--->
+type: docs
+---
 
 # Theming Guide
 

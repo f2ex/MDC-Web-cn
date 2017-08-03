@@ -1,9 +1,8 @@
-<!--docs:
-title: "Architecture Overview"
+---
+title: Architecture Overview
 layout: landing
-section: docs
-path: /docs/architecture-overview/
--->
+type: docs
+---
 
 # MDC-Web Architecture Overview
 

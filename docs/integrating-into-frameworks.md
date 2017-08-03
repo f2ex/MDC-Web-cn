@@ -1,10 +1,8 @@
-<!--docs:
-title: "Integrating MDC-Web into Frameworks"
-navTitle: "Framework Integration"
+---
+title: Framework Integration
 layout: landing
-section: docs
-path: /docs/framework-integration/
--->
+type: docs
+---
 
 # Integrating MDC-Web into Frameworks
 

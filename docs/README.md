@@ -1,9 +1,8 @@
-<!--docs:
-title: "Documentation"
+---
+title: Supporting documentation
 layout: landing
-section: docs
-path: /docs/
--->
+type: docs
+---
 
 # Supporting documentation
 

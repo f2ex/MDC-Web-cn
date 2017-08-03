@@ -1,10 +1,8 @@
-<!--docs:
-title: "Migrating from Material Design Lite"
-navTitle: "Migrating from MDL"
+---
+title: Migrating from MDL
 layout: landing
-section: docs
-path: /docs/migrating-from-mdl/
--->
+type: docs
+---
 
 # Migrating from Material Design Lite
 

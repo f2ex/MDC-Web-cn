@@ -1,9 +1,8 @@
-<!--docs:
-title: "Authoring Components"
+---
+title: Authoring Components
 layout: landing
-section: docs
-path: /docs/authoring-components/
--->
+type: docs
+---
 
 # Authoring Components
 

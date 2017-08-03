@@ -1,9 +1,8 @@
-<!--docs:
-title: "Closure Compiler Annotations"
+---
+title: Closure Compiler Annotations
 layout: landing
-section: docs
-path: /docs/closure-compiler/
--->
+type: docs
+---
 
 # Annotating MDC-Web for the Closure Compiler
 
