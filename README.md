@@ -4,7 +4,7 @@
 *   [docs（文档）](https://github.com/f2ex/MDC-Web-cn/tree/master/docs) 在这里
 *   [框架示例文档](https://github.com/f2ex/MDC-Web-cn/tree/master/framework-examples)  在这里
 
-现有译文错误、润色可直接提交 push ，或者提 [Issues](https://github.com/f2ex/MDC-Web-cn/issues)
+现有译文错误、润色可直接 pull request ，或者提 [Issues](https://github.com/f2ex/MDC-Web-cn/issues)
 
 * * *
 
