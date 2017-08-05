@@ -1,3 +1,13 @@
+**目前 [mdcui.com](http://mdcui.com/) 上的翻译已完了大部分，由于是我独立完成，还存在很多不足，大家如果有兴趣可协助此文档的翻译，非常感谢 :P**
+
+*   [catalog（组件）](https://github.com/f2ex/MDC-Web-cn/tree/master/packages) 在这里
+*   [docs（文档）](https://github.com/f2ex/MDC-Web-cn/tree/master/docs) 在这里
+*   [框架示例文档](https://github.com/f2ex/MDC-Web-cn/tree/master/framework-examples)  在这里
+
+现有译文错误、润色可直接提交 push ，或者提 [Issues](https://github.com/f2ex/MDC-Web-cn/issues)
+
+* * *
+
 # Material Components for the web
 
 Material Components for the web (MDC-Web) help developers execute [Material Design](http://mdcui.com/).
