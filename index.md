@@ -141,7 +141,7 @@ open http://localhost:8080
 
 - [Getting Started Guide](docs/getting-started.md)
 - [All Components](packages/)
-- [Demos](demos/)
+- [Demos](https://github.com/material-components/material-components-web/tree/master/demos)
 - [Framework Integration Examples](framework-examples/)
 - [Contributing](CONTRIBUTING.md)
 - [Developing MDC-Web Components](docs/developer.md)
