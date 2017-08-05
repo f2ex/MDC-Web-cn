@@ -1,7 +1,7 @@
 ## mdcui.com
 
-网址：[mdcui.com](http://mdcui.com/) 
- Forked from [material-components-web](https://github.com/material-components/material-components-web)  
+网址：[mdcui.com](http://mdcui.com/)  
+Forked from [material-components-web](https://github.com/material-components/material-components-web)  
 > [mdcui.com](http://mdcui.com/) 是 [material.io](https://www.material.io/) 的中文版本
 
 ## 公告
@@ -24,10 +24,10 @@
 
 ## 如何贡献翻译
 
-1. 新建一个 [issue](https://github.com/f2ex/MDC-Web-cn/issues)，标题为 【翻译+文档目录/文档名】，说明要贡献哪篇文档，注意翻译之前先看看 issues 里面有没有人已经认领了
+1. 新建一个 [issue](https://github.com/f2ex/MDC-Web-cn/issues)，标题为 【翻译+文档目录/文档名】，说明要贡献哪篇文档，注意翻译之前先看看 issues 里面有没有人已经认领了。
 2. 将文档 fork 之后或下载到本地，不要改变文档的头部信息和任何结构。
-3. 使用你喜欢的任何方式进行翻译,翻译结束后务必检查译文是否有错漏。
-4. 提交一个 pull-request，等待审核
+3. 使用你喜欢的任何方式进行翻译，翻译结束后务必检查译文是否有错漏。
+4. 提交一个 pull-request，等待审核。
 
 ## 注意事项
 
